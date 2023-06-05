@@ -1,5 +1,5 @@
 # A Modular Approach for Creation of Any Bi-Axial Woven Structure with Congruent Tiles
-
+![weave](./imgs/weave.png)
 Within this repository Blender programs and Geometry Nodes feature is used to develop the congruent tiles. 
 
 ```models``` directory contains 3D printable .stl files of the shapes with slots.
