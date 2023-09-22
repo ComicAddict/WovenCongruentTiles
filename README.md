@@ -78,3 +78,20 @@ Shape generator can be controlled through the Geometry Nodes modifier inputs tha
 To get different rendering of the shape you can use Blender's features which can be accessed through the viewport interface:
 
 ![inter](./imgs/rend.png)
+
+## Citation
+
+```bibtex
+@article{yildiz2023congruentbiaxial,
+title = {A modular approach for creation of any bi-axial woven structure with congruent tiles},
+author = {Tolga Yildiz and Ergun Akleman and Vinayak Krishnamurthy and Matthew Ebert},
+journal = {Computers & Graphics},
+volume = {114},
+pages = {357-367},
+year = {2023},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2023.06.017},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849323001127},
+keywords = {Spherical coordinates, Voronoi tessellation, Parametrization, 3D tiling}
+}
+```
